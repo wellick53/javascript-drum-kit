@@ -8,3 +8,5 @@ Only vanilla javascript and css were used. No libraries, no frameworks.
 
 This small project was done with the help of Wes Bos' javascript30.com
 
+Hope you like it!
+
